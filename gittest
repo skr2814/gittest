@@ -1,4 +1,6 @@
 Thsi is testfile for git. 
 using all the commands
 This is using for clone the file. 
-After succesfuully clone will check branching. 
+After succesfuully clone will check git pull.
+Git pull gives the current file to be downloaded to your local machine or local host. 
+git pull <remote repo>
