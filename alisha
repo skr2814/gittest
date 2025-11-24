@@ -1,2 +1,6 @@
 This is new branch file. 
 After creating file this branch will be pulled to another branch. 
+A Git branch is a lightweight, movable pointer to a specific commit in the repository.
+It allows you to diverge from the main line of development and continue to work on a separate version of the project without affecting the main branch. 
+This feature is particularly useful for managing different features, bug fixes, or experiments in isolation.
+
